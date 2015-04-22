@@ -1,0 +1,2 @@
+[15-Sep-2014 09:50:04 America/Denver] PHP Warning:  require_once(../../functions/function.php): failed to open stream: No such file or directory in /home/tasueded/public_html/portal/tams/ict/admin/index.php on line 88
+[15-Sep-2014 09:50:04 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../../functions/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/portal/tams/ict/admin/index.php on line 88
